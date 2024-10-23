@@ -1,3 +1,4 @@
 def swap_case(s: str) -> int:
-    """Write your code here"""
+    swap = s.swapcase()
+    return swap
     pass
